@@ -1,0 +1,22 @@
+{
+  "name": "zulhash",
+  "version": "1.0.0",
+  "description": "A lightweight, high-performance hashing library for TypeScript.",
+  "main": "./dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "hash",
+    "fnv1a",
+    "lightweight",
+    "typescript"
+  ],
+  "author": "Aulia Wiguna",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
