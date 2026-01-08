@@ -84,5 +84,5 @@ Maps / Caching | ✅ Yes | ⚠️ Overkill
 Short IDs | ✅ Yes | ❌ Too long
 Passwords / Security | ❌ No | ✅ Yes
 
-###Note: 
+### Note: 
 ZulHash is a non-cryptographic hash. Do not use it for storing passwords or sensitive security-related data.
