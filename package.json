@@ -1,6 +1,6 @@
 {
   "name": "zulhash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A lightweight, high-performance hashing library for TypeScript.",
   "main": "./dist/index.js",
   "files": ["dist"],
