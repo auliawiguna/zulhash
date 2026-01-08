@@ -3,8 +3,8 @@
 A high-performance, zero-dependency, lightweight hashing library for TypeScript and JavaScript.
 
 [![npm version](https://img.shields.io/npm/v/zulhash.svg)](https://www.npmjs.com/package/zulhash)
-[![license](https://img.shields.io/npm/l/zulhash.svg)](https://github.com/auliawiguna/zulhash/blob/main/LICENSE)
-<!-- [![bundle size](https://img.shields.io/bundlephobia/minzip/zulhash)](https://bundlephobia.com/package/zulhash) -->
+[![license](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/auliawiguna/zulhash/blob/master/LICENSE)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/zulhash)](https://bundlephobia.com/package/zulhash)
 
 **ZulHash** provides an extremely fast non-cryptographic hashing implementation (FNV-1a) designed for speed and simplicity. It is perfect for hash tables, cache keys, and generating short unique identifiers.
 

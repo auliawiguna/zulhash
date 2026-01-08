@@ -1,6 +1,6 @@
 {
   "name": "zulhash",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A lightweight, high-performance hashing library for TypeScript.",
   "main": "./dist/index.js",
   "files": ["dist"],
@@ -15,7 +15,7 @@
     "typescript"
   ],
   "author": "Aulia Wiguna",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "typescript": "^5.9.3"
   }
